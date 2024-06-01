@@ -1,0 +1,24 @@
+body{
+  background-color: #202124;
+  text-align: center;
+}
+
+a {
+  color: inherit; 
+  text-decoration: inherit; 
+}
+
+img{
+  border-radius: 10px;
+  max-width: 70vh;
+}
+
+div.application{
+  background-color: #444746;
+  width: 80vh;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  color: #ff7f50;
+  text-decoration-line: none;
+}
